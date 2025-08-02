@@ -7,6 +7,7 @@ A simple Flask-based food ordering data analysis application. This project showc
 - Built using **Flask** and **MySQL**
 - Displays user and order details
 - Analyzes top users and popular orders
+- REST-style **API endpoints** using Flask
 - UI built with **HTML/CSS/JavaScript**
 
 ## 📸 Screenshot
