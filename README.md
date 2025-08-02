@@ -11,5 +11,5 @@ A simple Flask-based food ordering data analysis application. This project showc
 
 ## 📸 Screenshot
 
-![App Screenshot](images/screenshot.png)
+![App Screenshot](images/Screenshot.png)
 
