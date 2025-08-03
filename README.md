@@ -10,7 +10,4 @@ A simple Flask-based food ordering data analysis application. This project showc
 - REST-style **API endpoints** using Flask
 - UI built with **HTML/CSS/JavaScript**
 
-## 📸 Screenshot
-
-![App Screenshot](images/Screenshot.png)
 
