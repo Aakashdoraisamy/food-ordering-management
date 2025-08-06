@@ -49,7 +49,7 @@ def place_order():
                 return jsonify({"error": f"Item {item_name} not found."}), 400
 
             item_id = result[0]  # Get the item_id from the query result
-            user_id = 1  # Assuming user_id is 1, change this if needed
+            user_id = 1  # Assuming user_id is 1
 
             # SQL query to insert the order
             sql = """
